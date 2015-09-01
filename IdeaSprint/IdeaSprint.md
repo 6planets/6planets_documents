@@ -12,7 +12,7 @@
 - 한국노동패널 (https://www.kli.re.kr/klips/ko/main/main.jsp)
 -- 노동과 관련되어 실제 설문조사하여 데이터를 모아두고 있음
 - R언어에서 SAS 파일 읽기 방법
-```
+```R
 install.packages("sas7bdat")
 library(sas7bdat)
 klips <- read.sas7bdat("klips15h.sas7bdat")
@@ -20,7 +20,7 @@ klips <- read.sas7bdat("klips15h.sas7bdat")
 # 멈춘게 아닙니다. read하는데 10분 기다린 것 같습니다.
 ```
 - R언어에서 엑셀파일 읽기 방법
-```
+```R
 install.packages("openxlsx")
 library(openxlsx)
 cost <- read.xlsx('cost.xlsx')
@@ -58,14 +58,14 @@ http://bl.ocks.org/mbostock
 
 ### 다음 안건
 - 한가지 주제를 프로토타입삼아 진행해보는 것은 어떨까?
--- 열정페이
--- 난민
--- 여론과 주식의 관
--- 공공데이터 시각화
--- 어벤저스 (트위터 여론 이용)
+ - 열정페이
+ - 난민
+ - 여론과 주식의 관
+ - 공공데이터 시각화
+ - 어벤저스 (트위터 여론 이용)
 - Visual Insight 챕터 분류
--- 챕터 3 김소소
--- 챕터 4 임선희
--- 챕터 5 이봉규
--- 챕터 6 이가은
--- 챕터 7 박준호
+ - 챕터 3 김소소
+ - 챕터 4 임선희
+ - 챕터 5 이봉규
+ - 챕터 6 이가은
+ - 챕터 7 박준호
