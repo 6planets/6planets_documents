@@ -10,7 +10,7 @@
 
 ### 박준호
 - 한국노동패널 (https://www.kli.re.kr/klips/ko/main/main.jsp)
--- 노동과 관련되어 실제 설문조사하여 데이터를 모아두고 있음
+ - 노동과 관련되어 실제 설문조사하여 데이터를 모아두고 있음
 - R언어에서 SAS 파일 읽기 방법
 ```R
 install.packages("sas7bdat")
@@ -34,12 +34,12 @@ head(cost)
 
 ### 임선희
 - 네이버지도 api, D3.js 활용해 맛집 지도 만들기:
-http://slownews.kr/43212
-https://github.com/southkorea/southkorea-maps
+ - http://slownews.kr/43212
+ - https://github.com/southkorea/southkorea-maps
 - 데이터시각화 활용 실례 :
-http://www.bloter.net/archives/236338
+ - http://www.bloter.net/archives/236338
 - 디자인 소스 참고 :
-http://bl.ocks.org/mbostock
+ - http://bl.ocks.org/mbostock
 
 기대 수준에 못미치는 데이터를 얻는 이슈가 있음.
 토픽을 제시하고 논의할때 데이터 소스까지 같이 논의해야할 것  같음.
@@ -53,8 +53,8 @@ http://bl.ocks.org/mbostock
 - 해외의 경우, <뉴욕타임즈>나 <가디언>에서 임금을 시각화로 표현해둔 자료가 있다.
 
 ### 김우석
-#### Visual Insight 발표
-챕터 1 ~ 2장 내용
+- Visual Insight 발표
+ - 챕터 1 ~ 2장 내용
 
 ### 다음 안건
 - 한가지 주제를 프로토타입삼아 진행해보는 것은 어떨까?
